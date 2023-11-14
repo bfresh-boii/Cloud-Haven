@@ -1,0 +1,104 @@
+@charset "uft-8";
+
+.band {
+	text-align: center;
+}
+
+.home a {
+	text-decoration: none;
+	color: black;
+	margin: 0;
+	padding: 0;
+	background-color: #f44336;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	display: inline-block;
+}
+
+.style {
+	padding-top: 20px;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	padding: 5px;
+}
+
+.icon img {
+	width: 80px;
+	height: 60px;
+	padding-right: 80px;
+}
+
+.title {
+	padding-left: 82px;
+}
+
+.band {
+	font-size: 30px;
+	border-bottom: solid;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.grid-container a {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 80px;
+}
+
+
+.thanks {
+	font-size: 30px;
+	text-align: center;
+	padding-left: 30px;
+}
+
+.enjoy {
+	font-size: 30px;
+	text-align: center;
+	padding-left: 30px;
+}
+
+.checkout img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+	padding-bottom: 70px;
+	padding-top: 50px;
+}
+
+ img{
+	width:300px;
+	height:300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 75px;
+}
+
+ul {
+	list-style-type = none;
+	overflow: hidden;
+	text-align:center;
+}
+
+li {
+	display: inline-block;
+	float: center;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none; 
+	padding-bottom: 50px;
+}
