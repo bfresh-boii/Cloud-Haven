@@ -14,6 +14,14 @@
 	padding: 14px 25px;
 	text-align: center;
 	display: inline-block;
+	margin-top: 15px;
+	border-radius: 10px;
+}
+
+.details {
+	background-color: #f44336;
+	text-align: center;
+	color: white;
 }
 
 .style {
@@ -30,6 +38,7 @@
 	width: 80px;
 	height: 60px;
 	padding-right: 80px;
+	border-radius: 0px;
 }
 
 .title {
@@ -51,6 +60,7 @@
   text-decoration: none;
   display: inline-block;
   margin-left: 80px;
+  border-radius: 10px;
 }
 
 
@@ -75,12 +85,23 @@
 	padding-top: 50px;
 }
 
+.details a {
+	color: white;
+}
+
+.details img {
+	width: 20px;
+	height: 20px;
+	border-radius: 0px;
+	margin-left: 0px;
+}
+
  img{
 	width:300px;
 	height:300px;
-	margin-left: auto;
 	margin-right: auto;
-	padding-left: 75px;
+	margin-left: 75px;
+	border-radius: 30px;
 }
 
 ul {
@@ -101,4 +122,8 @@ li a {
 	padding: 14px 16px;
 	text-decoration: none; 
 	padding-bottom: 50px;
+}
+
+footer {
+	margin-top: 200px;
 }
