@@ -15,6 +15,20 @@
 	color: white;
 }
 
+.to-do {
+	margin-top: 50px;
+	text-align: center;
+}
+
+.to-do img {
+	margin-right: 55px;
+}
+
+.item-2{
+	margin-top: 50px;
+}
+
 footer {
 	margin-top: 200px;
 }
+
